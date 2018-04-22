@@ -1,0 +1,40 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+/*for infor look in bootstrap.min.css and .bg-primary*/
+header {
+  padding: 450px 0 130px 0;
+  background-image: url(/images/apoorva-logo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 35px ;
+  }
+}
+a{color:#e75228;  -webkit-transition: 0.3s; -moz-transition: 0.3s; transition: 0.3s;}
+a:hover{color:#ffffff;}
+a:focus, a:active{outline:none;}
+
+.linebar{
+  float: right;
+}
+
+.logo{
+  padding-left: 80px;
+}
+
+#navbarResponsive{
+  padding-right: 80px;
+}
+#contact{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.gitlibrary{
+  padding-bottom: 20px;
+}
